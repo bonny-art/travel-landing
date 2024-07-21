@@ -49,5 +49,12 @@ module.exports = {
       },
     },
   },
+  safelist: [
+    "bg-bg-img-1",
+    "bg-bg-img-2",
+    "bg-orange-50",
+    "btn_white",
+    "btn_dark_green_outline",
+  ],
   plugins: [],
 };
